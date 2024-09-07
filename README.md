@@ -1,1 +1,0 @@
-# Reset-trial-Jetbrains-Products-on-Windows-Linux-Macos
