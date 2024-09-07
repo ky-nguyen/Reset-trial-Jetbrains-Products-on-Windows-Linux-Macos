@@ -1,6 +1,5 @@
 #!/bin/bash
-# Reset JetBrains IDE evaluations v1.1.0
-
+# Reset JetBrains IDE evaluations
 OS_NAME=$(uname -s)
 
 JB_PRODUCTS="IntelliJIdea CLion PhpStorm GoLand PyCharm WebStorm Rider DataGrip RubyMine AppCode"
